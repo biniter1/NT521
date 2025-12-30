@@ -1,0 +1,37 @@
+{
+  "package_name": "wheel",
+  "version": "0.45.1",
+  "author": null,
+  "author_email": "Daniel Holth <dholth@fastmail.fm>",
+  "summary": "A built-package format for Python",
+  "description": "wheel\n=====\n\nThis is a command line tool for manipulating Python wheel files, as defined in\n`PEP 427`_. It contains the following functionality:\n\n* Convert ``.egg`` archives into ``.whl``\n* Unpack wheel archives\n* Repack wheel archives\n* Add or remove tags in existing wheel archives\n\n.. _PEP 427: https://www.python.org/dev/peps/pep-0427/\n\nHistorical note\n---------------\n\nThis project used to contain the implementation of the setuptools_ ``bdist_wheel``\ncommand, but as of setuptools v70.1, it no longer needs ``wheel`` installed for that to\nwork. Thus, you should install this **only** if you intend to use the ``wheel`` command\nline tool!\n\n.. _setuptools: https://pypi.org/project/setuptools/\n\nDocumentation\n-------------\n\nThe documentation_ can be found on Read The Docs.\n\n.. _documentation: https://wheel.readthedocs.io/\n\nCode of Conduct\n---------------\n\nEveryone interacting in the wheel project's codebases, issue trackers, chat\nrooms, and mailing lists is expected to follow the `PSF Code of Conduct`_.\n\n.. _PSF Code of Conduct: https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md\n\n",
+  "home_page": null,
+  "project_url": "https://pypi.org/project/wheel/",
+  "license": null,
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: System :: Archiving :: Packaging"
+  ],
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "pytest>=6.0.0; extra == \"test\"",
+    "setuptools>=65; extra == \"test\""
+  ],
+  "project_urls": {
+    "Changelog": "https://wheel.readthedocs.io/en/stable/news.html",
+    "Documentation": "https://wheel.readthedocs.io/",
+    "Issue Tracker": "https://github.com/pypa/wheel/issues",
+    "Source": "https://github.com/pypa/wheel"
+  },
+  "downloads_last_month": null,
+  "age_days": 373
+}

@@ -1,0 +1,3 @@
+import component_a_static 
+import component_b_obfuscation
+import component_c_behavioral

@@ -1,0 +1,15 @@
+{
+  "package_name": "juphelper",
+  "malicious": true,
+  "malware_type": "unknown",
+  "source": "real_malicious_samples",
+  "version": "1.0.0",
+  "author": "unknown",
+  "file_count": 2,
+  "file_hash": "1e01910c3ae5d539d87ccb6a60395548",
+  "original_files": [
+    "juphelper-0.1.6_helper.py",
+    "juphelper-0.1.6___init__.py"
+  ],
+  "created_at": "2025-12-05T22:10:32.901472"
+}

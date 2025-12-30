@@ -1,0 +1,21 @@
+{
+  "package_name": "ptmpl",
+  "malicious": true,
+  "malware_type": "unknown",
+  "source": "real_malicious_samples",
+  "version": "1.0.0",
+  "author": "unknown",
+  "file_count": 8,
+  "file_hash": "5d3462345010ae573063829b95fc614b",
+  "original_files": [
+    "ptmpl-0.2.14_conftest.py",
+    "ptmpl-0.2.14_curves.py",
+    "ptmpl-0.2.14_entry_points.py",
+    "ptmpl-0.2.14_post_install.py",
+    "ptmpl-0.2.14_test_curves.py",
+    "ptmpl-0.2.14___init__.py",
+    "ptmpl-0.2.14___main__.py",
+    "ptmpl-0.2.14___version__.py"
+  ],
+  "created_at": "2025-12-05T22:10:32.746885"
+}

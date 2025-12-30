@@ -1,0 +1,54 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:13:48.365037",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-013\\source\\packaging-25.0\\docs\\conf.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-013\\source\\packaging-25.0\\src\\packaging\\tags.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-013\\source\\packaging-25.0\\src\\packaging\\_musllinux.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-013\\source\\packaging-25.0\\src\\packaging\\_parser.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-013\\source\\packaging-25.0\\src\\packaging\\licenses\\__init__.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-013\\source\\packaging-25.0\\tests\\test_musllinux.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-013\\source\\packaging-25.0\\tests\\test_tags.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 7,
+    "high_severity": 3,
+    "medium_severity": 4,
+    "low_severity": 0
+  }
+}

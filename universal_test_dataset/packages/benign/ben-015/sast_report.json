@@ -1,0 +1,240 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:13:53.685113",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\build-project\\build-project.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_internal\\build_env.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_internal\\cli\\main_parser.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_internal\\commands\\configuration.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_internal\\commands\\debug.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_internal\\locations\\_distutils.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_internal\\network\\auth.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_internal\\network\\session.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_internal\\utils\\subprocess.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\__init__.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\dependency_groups\\_pip_wrapper.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\distlib\\compat.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\distlib\\resources.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\distlib\\scripts.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\distlib\\util.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\distlib\\util.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\distro\\distro.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\packaging\\tags.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\packaging\\_musllinux.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\packaging\\_parser.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\packaging\\licenses\\__init__.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pkg_resources\\__init__.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pkg_resources\\__init__.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pygments\\sphinxext.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pygments\\formatters\\__init__.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pygments\\formatters\\__init__.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pygments\\formatters\\__init__.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pygments\\lexers\\python.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pygments\\lexers\\__init__.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pygments\\lexers\\__init__.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pygments\\styles\\__init__.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\pyproject_hooks\\_impl.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\requests\\packages.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\requests\\__init__.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "HTTP POST detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\rich\\markup.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\rich\\pager.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\urllib3\\contrib\\_securetransport\\low_level.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-015\\source\\pip-25.3\\src\\pip\\_vendor\\urllib3\\packages\\six.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 38,
+    "high_severity": 8,
+    "medium_severity": 29,
+    "low_severity": 1
+  }
+}

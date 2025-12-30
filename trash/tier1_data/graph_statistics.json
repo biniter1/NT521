@@ -1,0 +1,8 @@
+{
+  "num_nodes": 48,
+  "num_edges": 92,
+  "num_packages": 46,
+  "avg_degree": 3.8333333333333335,
+  "density": 0.040780141843971635,
+  "is_connected": true
+}

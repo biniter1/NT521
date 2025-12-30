@@ -1,0 +1,48 @@
+{
+  "name": "ben-008",
+  "version": "1.0.0",
+  "malicious": false,
+  "maloss_info": {
+    "package_name": "ben-008",
+    "version": "1.0.0",
+    "author": "verified_author",
+    "author_email": "author@pypi.org",
+    "description": "Legitimate package",
+    "home_page": "https://github.com/legitimate/repo",
+    "license": "MIT",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "upload_time": "2020-01-01T00:00:00",
+    "typosquatting_score": 0.0,
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "has_setup_py": true,
+    "has_binary": false,
+    "has_native_extension": false,
+    "source_lines": 17874,
+    "has_obfuscation": false,
+    "entropy_score": 0.0
+  },
+  "tier_system_info": {
+    "statistics": {
+      "downloads": {
+        "last_month": 300000
+      }
+    },
+    "upload_time": "2020-01-01T00:00:00",
+    "author": "verified_author",
+    "has_documentation": true,
+    "dependencies": [
+      "requests",
+      "numpy"
+    ]
+  }
+}

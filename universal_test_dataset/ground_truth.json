@@ -1,0 +1,332 @@
+{
+  "packages": [
+    {
+      "package_name": "ben-001",
+      "malicious": false,
+      "source_lines": 19717,
+      "sast_issues": 4,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-002",
+      "malicious": false,
+      "source_lines": 8554,
+      "sast_issues": 1,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-003",
+      "malicious": false,
+      "source_lines": 105323,
+      "sast_issues": 12,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-004",
+      "malicious": false,
+      "source_lines": 162,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-005",
+      "malicious": false,
+      "source_lines": 6390,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-006",
+      "malicious": false,
+      "source_lines": 20468,
+      "sast_issues": 5,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-008",
+      "malicious": false,
+      "source_lines": 17874,
+      "sast_issues": 5,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-009",
+      "malicious": false,
+      "source_lines": 39707,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-010",
+      "malicious": false,
+      "source_lines": 22755,
+      "sast_issues": 9,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-011",
+      "malicious": false,
+      "source_lines": 934,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-013",
+      "malicious": false,
+      "source_lines": 11498,
+      "sast_issues": 7,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-015",
+      "malicious": false,
+      "source_lines": 120530,
+      "sast_issues": 38,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-016",
+      "malicious": false,
+      "source_lines": 104584,
+      "sast_issues": 48,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-017",
+      "malicious": false,
+      "source_lines": 18982,
+      "sast_issues": 3,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-019",
+      "malicious": false,
+      "source_lines": 10776,
+      "sast_issues": 5,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-020",
+      "malicious": false,
+      "source_lines": 21804,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-021",
+      "malicious": false,
+      "source_lines": 100355,
+      "sast_issues": 76,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-022",
+      "malicious": false,
+      "source_lines": 2332,
+      "sast_issues": 3,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-023",
+      "malicious": false,
+      "source_lines": 31354,
+      "sast_issues": 2,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-024",
+      "malicious": false,
+      "source_lines": 34918,
+      "sast_issues": 13,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "ben-025",
+      "malicious": false,
+      "source_lines": 8356,
+      "sast_issues": 9,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-001",
+      "malicious": true,
+      "source_lines": 22557,
+      "sast_issues": 2,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-002",
+      "malicious": true,
+      "source_lines": 3571,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-003",
+      "malicious": true,
+      "source_lines": 8227,
+      "sast_issues": 3,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-004",
+      "malicious": true,
+      "source_lines": 665,
+      "sast_issues": 2,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-005",
+      "malicious": true,
+      "source_lines": 53,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-006",
+      "malicious": true,
+      "source_lines": 2,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-007",
+      "malicious": true,
+      "source_lines": 8,
+      "sast_issues": 3,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-008",
+      "malicious": true,
+      "source_lines": 183,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-009",
+      "malicious": true,
+      "source_lines": 36,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-010",
+      "malicious": true,
+      "source_lines": 43,
+      "sast_issues": 1,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-011",
+      "malicious": true,
+      "source_lines": 76,
+      "sast_issues": 0,
+      "dependencies_count": 1
+    },
+    {
+      "package_name": "mal-012",
+      "malicious": true,
+      "source_lines": 98,
+      "sast_issues": 0,
+      "dependencies_count": 1
+    },
+    {
+      "package_name": "mal-013",
+      "malicious": true,
+      "source_lines": 3,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-014",
+      "malicious": true,
+      "source_lines": 1,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-015",
+      "malicious": true,
+      "source_lines": 1,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-016",
+      "malicious": true,
+      "source_lines": 1,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-017",
+      "malicious": true,
+      "source_lines": 32,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-018",
+      "malicious": true,
+      "source_lines": 1,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-019",
+      "malicious": true,
+      "source_lines": 108,
+      "sast_issues": 1,
+      "dependencies_count": 1
+    },
+    {
+      "package_name": "mal-020",
+      "malicious": true,
+      "source_lines": 24,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-021",
+      "malicious": true,
+      "source_lines": 103,
+      "sast_issues": 1,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-022",
+      "malicious": true,
+      "source_lines": 0,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-023",
+      "malicious": true,
+      "source_lines": 0,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-024",
+      "malicious": true,
+      "source_lines": 45,
+      "sast_issues": 0,
+      "dependencies_count": 0
+    },
+    {
+      "package_name": "mal-025",
+      "malicious": true,
+      "source_lines": 12,
+      "sast_issues": 0,
+      "dependencies_count": 1
+    }
+  ],
+  "statistics": {
+    "total": 46,
+    "benign": 21,
+    "malicious": 25
+  },
+  "created_at": "2025-12-05T22:13:36.805348"
+}

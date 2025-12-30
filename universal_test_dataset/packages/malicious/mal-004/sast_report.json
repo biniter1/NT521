@@ -1,0 +1,24 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:14:10.686180",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\malicious\\mal-004\\source\\ptmpl-0.2.14_post_install_3.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\malicious\\mal-004\\source\\ptmpl-0.2.14___main___6.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 2,
+    "high_severity": 0,
+    "medium_severity": 2,
+    "low_severity": 0
+  }
+}

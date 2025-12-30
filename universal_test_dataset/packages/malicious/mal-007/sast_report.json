@@ -1,0 +1,30 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:14:10.777679",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\malicious\\mal-007\\source\\defca-3.0.0_test_1.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\malicious\\mal-007\\source\\defca-3.0.0_test_1.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\malicious\\mal-007\\source\\defca-3.0.0_test_1.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 3,
+    "high_severity": 1,
+    "medium_severity": 1,
+    "low_severity": 1
+  }
+}

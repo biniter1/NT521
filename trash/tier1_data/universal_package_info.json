@@ -1,0 +1,1169 @@
+{
+  "ben-001": {
+    "name": "ben-001",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-002": {
+    "name": "ben-002",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-003": {
+    "name": "ben-003",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-004": {
+    "name": "ben-004",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-005": {
+    "name": "ben-005",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-006": {
+    "name": "ben-006",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-008": {
+    "name": "ben-008",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-009": {
+    "name": "ben-009",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-010": {
+    "name": "ben-010",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-011": {
+    "name": "ben-011",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-013": {
+    "name": "ben-013",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-015": {
+    "name": "ben-015",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-016": {
+    "name": "ben-016",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-017": {
+    "name": "ben-017",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-019": {
+    "name": "ben-019",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-020": {
+    "name": "ben-020",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-021": {
+    "name": "ben-021",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-022": {
+    "name": "ben-022",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-023": {
+    "name": "ben-023",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-024": {
+    "name": "ben-024",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "ben-025": {
+    "name": "ben-025",
+    "downloads": {
+      "last_day": 10000,
+      "last_week": 70000,
+      "last_month": 300000
+    },
+    "author": "verified_author",
+    "homepage": "",
+    "upload_time": "2020-01-01T00:00:00",
+    "dependencies": {
+      "runtime": [
+        "requests",
+        "numpy"
+      ],
+      "development": []
+    },
+    "typosquatting_score": 0.0,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-001": {
+    "name": "mal-001",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:08.898822",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-002": {
+    "name": "mal-002",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:09.995424",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-003": {
+    "name": "mal-003",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.351488",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-004": {
+    "name": "mal-004",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.609638",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-005": {
+    "name": "mal-005",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.699578",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-006": {
+    "name": "mal-006",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.734694",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-007": {
+    "name": "mal-007",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.763086",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-008": {
+    "name": "mal-008",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.791084",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-009": {
+    "name": "mal-009",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.818977",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-010": {
+    "name": "mal-010",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.861534",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-011": {
+    "name": "mal-011",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.897629",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-012": {
+    "name": "mal-012",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.936252",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-013": {
+    "name": "mal-013",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:10.979999",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-014": {
+    "name": "mal-014",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.006455",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-015": {
+    "name": "mal-015",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.027874",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-016": {
+    "name": "mal-016",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.052195",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-017": {
+    "name": "mal-017",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.104823",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-018": {
+    "name": "mal-018",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.138504",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-019": {
+    "name": "mal-019",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.152095",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-020": {
+    "name": "mal-020",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.172749",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-021": {
+    "name": "mal-021",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.198704",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-022": {
+    "name": "mal-022",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.216562",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-023": {
+    "name": "mal-023",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.227753",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-024": {
+    "name": "mal-024",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.240705",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  },
+  "mal-025": {
+    "name": "mal-025",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "author": "unknown",
+    "homepage": "",
+    "upload_time": "2025-12-05T22:14:11.275980",
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "typosquatting_score": 0.8,
+    "num_dependencies": 2,
+    "has_homepage": false,
+    "has_author": true,
+    "is_malicious": false,
+    "sast_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  }
+}

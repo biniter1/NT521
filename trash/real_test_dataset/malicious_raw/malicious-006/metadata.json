@@ -1,0 +1,17 @@
+{
+  "package_name": "artifact",
+  "malicious": true,
+  "malware_type": "unknown",
+  "source": "real_malicious_samples",
+  "version": "1.0.0",
+  "author": "unknown",
+  "file_count": 4,
+  "file_hash": "99732e20ff713143b9a8823c464548ea",
+  "original_files": [
+    "artifact-lab-3-package-b6920ef4-0.1.1_flag.py",
+    "artifact-lab-3-package-b6920ef4-0.1.1___init__.py",
+    "artifact-lab-3-package-e90915e1-0.1.3_flag.py",
+    "artifact-lab-3-package-e90915e1-0.1.3___init__.py"
+  ],
+  "created_at": "2025-12-05T22:10:32.788258"
+}

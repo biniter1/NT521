@@ -1,0 +1,30 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:14:04.319117",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-022\\source\\six-1.17.0\\six.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-022\\source\\six-1.17.0\\six.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-022\\source\\six-1.17.0\\test_six.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 3,
+    "high_severity": 1,
+    "medium_severity": 2,
+    "low_severity": 0
+  }
+}

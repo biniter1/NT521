@@ -1,0 +1,14 @@
+{
+  "package_name": "discomusic-0.0.3",
+  "malicious": true,
+  "malware_type": "unknown",
+  "source": "real_malicious_samples",
+  "version": "1.0.0",
+  "author": "unknown",
+  "file_count": 1,
+  "file_hash": "d510a9c3ac43663c242e11c8f1aafba1",
+  "original_files": [
+    "discomusic-0.0.3_setup.py"
+  ],
+  "created_at": "2025-12-05T22:10:32.955202"
+}

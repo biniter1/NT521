@@ -1,0 +1,468 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:14:04.153635",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\exercises.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setup.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\pkg_resources\\__init__.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\pkg_resources\\__init__.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\pkg_resources\\tests\\test_pkg_resources.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\pkg_resources\\tests\\test_resources.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\build_meta.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\extension.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\installer.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\launch.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\namespaces.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\wheel.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\wheel.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_scripts.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\command\\build_ext.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\command\\develop.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\config\\expand.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\environment.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\fixtures.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\fixtures.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\namespaces.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\namespaces.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_bdist_wheel.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_build_meta.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_config_discovery.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_develop.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_distutils_adoption.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_distutils_adoption.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_dist_info.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_dist_info.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_editable_install.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_editable_install.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_editable_install.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_egg_info.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_namespaces.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_virtualenv.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_wheel.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_wheel.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\test_windows_wrappers.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\config\\test_pyprojecttoml.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\config\\test_pyprojecttoml.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\integration\\helpers.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\tests\\integration\\test_pbr.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\core.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\dist.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\spawn.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\sysconfig.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\util.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\command\\bdist_rpm.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\command\\_framework_compat.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\compilers\\C\\base.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\compilers\\C\\base.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\compilers\\C\\msvc.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\tests\\test_build_ext.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_distutils\\tests\\test_sysconfig.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\typing_extensions.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\typing_extensions.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\backports\\__init__.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\jaraco\\context.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\jaraco\\context.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\jaraco\\functools\\__init__.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\more_itertools\\more.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\more_itertools\\recipes.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\packaging\\tags.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\packaging\\_musllinux.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\packaging\\_parser.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\packaging\\licenses\\__init__.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\wheel\\_bdist_wheel.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\wheel\\vendored\\packaging\\tags.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_musllinux.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_parser.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\tools\\build_launchers.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\tools\\finalize.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\tools\\generate_validation_code.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\tools\\vendored.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-021\\source\\setuptools-80.9.0\\_distutils_hack\\override.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 76,
+    "high_severity": 18,
+    "medium_severity": 58,
+    "low_severity": 0
+  }
+}

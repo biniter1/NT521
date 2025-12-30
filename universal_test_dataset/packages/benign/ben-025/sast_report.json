@@ -1,0 +1,66 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:14:08.790385",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-025\\source\\wheel-0.45.1\\src\\wheel\\_bdist_wheel.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-025\\source\\wheel-0.45.1\\src\\wheel\\vendored\\packaging\\tags.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-025\\source\\wheel-0.45.1\\src\\wheel\\vendored\\packaging\\_musllinux.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-025\\source\\wheel-0.45.1\\src\\wheel\\vendored\\packaging\\_parser.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-025\\source\\wheel-0.45.1\\tests\\conftest.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-025\\source\\wheel-0.45.1\\tests\\test_bdist_wheel.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-025\\source\\wheel-0.45.1\\tests\\test_bdist_wheel.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-025\\source\\wheel-0.45.1\\tests\\test_sdist.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-025\\source\\wheel-0.45.1\\tests\\test_tagopt.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 9,
+    "high_severity": 1,
+    "medium_severity": 8,
+    "low_severity": 0
+  }
+}

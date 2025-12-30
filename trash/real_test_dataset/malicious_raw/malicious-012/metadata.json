@@ -1,0 +1,15 @@
+{
+  "package_name": "builderknower2-0.1.30",
+  "malicious": true,
+  "malware_type": "unknown",
+  "source": "real_malicious_samples",
+  "version": "1.0.0",
+  "author": "unknown",
+  "file_count": 2,
+  "file_hash": "a184f8018bd402c9bea00e933374b4ac",
+  "original_files": [
+    "builderknower2-0.1.30_module.py",
+    "builderknower2-0.1.30_setup.py"
+  ],
+  "created_at": "2025-12-05T22:10:32.901472"
+}

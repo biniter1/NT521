@@ -1,0 +1,90 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:14:08.151483",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\examples\\coolmagic\\application.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\src\\werkzeug\\serving.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\src\\werkzeug\\utils.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\src\\werkzeug\\_reloader.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\src\\werkzeug\\_reloader.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\src\\werkzeug\\datastructures\\auth.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\src\\werkzeug\\debug\\console.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\src\\werkzeug\\debug\\console.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\src\\werkzeug\\debug\\tbtools.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\src\\werkzeug\\debug\\__init__.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\src\\werkzeug\\routing\\rules.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\tests\\conftest.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-024\\source\\werkzeug-3.1.4\\tests\\test_debug.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 13,
+    "high_severity": 6,
+    "medium_severity": 6,
+    "low_severity": 1
+  }
+}

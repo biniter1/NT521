@@ -1,0 +1,7 @@
+{
+  "direct": [
+    "requests==2.31.0"
+  ],
+  "transitive": [],
+  "total_count": 1
+}

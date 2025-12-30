@@ -1,0 +1,4 @@
+pip>=25
+setuptools>=80
+tox>=4
+virtualenv>=20.34

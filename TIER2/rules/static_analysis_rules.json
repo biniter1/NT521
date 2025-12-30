@@ -1,0 +1,94 @@
+{
+  "dangerous_imports": [
+    "os.system",
+    "subprocess.Popen",
+    "subprocess.run",
+    "subprocess.call",
+    "eval",
+    "exec",
+    "compile",
+    "__import__",
+    "importlib.import_module",
+    "socket.socket",
+    "urllib.request.urlopen",
+    "requests.get",
+    "requests.post",
+    "pickle.loads",
+    "marshal.loads",
+    "base64.b64decode"
+  ],
+  
+  "suspicious_functions": [
+    "eval",
+    "exec",
+    "compile",
+    "__import__",
+    "globals",
+    "locals",
+    "vars",
+    "dir",
+    "getattr",
+    "setattr",
+    "delattr",
+    "hasattr"
+  ],
+  
+  "dangerous_apis": [
+    "os.system",
+    "os.popen",
+    "os.spawn",
+    "os.exec",
+    "subprocess.call",
+    "subprocess.run",
+    "subprocess.Popen",
+    "socket.connect",
+    "socket.bind",
+    "socket.listen",
+    "urllib.request.urlopen",
+    "urllib.request.urlretrieve",
+    "requests.get",
+    "requests.post",
+    "pickle.load",
+    "pickle.loads",
+    "marshal.load",
+    "marshal.loads"
+  ],
+  
+  "file_operations": [
+    "open",
+    "file",
+    "io.open",
+    "os.open",
+    "pathlib.Path.open",
+    "shutil.copy",
+    "shutil.move",
+    "shutil.rmtree",
+    "os.remove",
+    "os.unlink",
+    "os.rmdir"
+  ],
+  
+  "network_operations": [
+    "socket.socket",
+    "socket.create_connection",
+    "urllib.request.urlopen",
+    "urllib.request.Request",
+    "requests.get",
+    "requests.post",
+    "requests.put",
+    "requests.delete",
+    "http.client.HTTPConnection",
+    "ftplib.FTP"
+  ],
+  
+  "encoding_operations": [
+    "base64.b64encode",
+    "base64.b64decode",
+    "base64.urlsafe_b64encode",
+    "base64.urlsafe_b64decode",
+    "codecs.encode",
+    "codecs.decode",
+    "binascii.hexlify",
+    "binascii.unhexlify"
+  ]
+}

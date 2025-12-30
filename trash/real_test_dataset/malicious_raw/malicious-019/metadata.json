@@ -1,0 +1,14 @@
+{
+  "package_name": "aptx-0.2",
+  "malicious": true,
+  "malware_type": "credential_stealer",
+  "source": "real_malicious_samples",
+  "version": "1.0.0",
+  "author": "unknown",
+  "file_count": 1,
+  "file_hash": "49628793f4ab1766bded0372c491a76d",
+  "original_files": [
+    "aptx-0.2_setup.py"
+  ],
+  "created_at": "2025-12-05T22:10:32.938070"
+}

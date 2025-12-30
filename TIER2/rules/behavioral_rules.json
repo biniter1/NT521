@@ -1,0 +1,142 @@
+{
+  "attack_signatures": [
+    {
+      "name": "credential_theft",
+      "indicators": [
+        "password",
+        "credential",
+        "token",
+        "api_key",
+        "secret",
+        "auth"
+      ],
+      "actions": [
+        "send",
+        "post",
+        "upload",
+        "exfiltrate"
+      ],
+      "severity": "critical"
+    },
+    {
+      "name": "backdoor",
+      "indicators": [
+        "socket.connect",
+        "reverse_shell",
+        "bind_shell",
+        "cmd",
+        "shell"
+      ],
+      "actions": [
+        "execute",
+        "run",
+        "popen",
+        "subprocess"
+      ],
+      "severity": "critical"
+    },
+    {
+      "name": "data_exfiltration",
+      "indicators": [
+        "file",
+        "data",
+        "document",
+        "download"
+      ],
+      "actions": [
+        "send",
+        "upload",
+        "post",
+        "requests.post"
+      ],
+      "severity": "high"
+    },
+    {
+      "name": "cryptomining",
+      "indicators": [
+        "mining",
+        "miner",
+        "hashrate",
+        "pool",
+        "stratum"
+      ],
+      "actions": [
+        "connect",
+        "mine",
+        "compute"
+      ],
+      "severity": "medium"
+    },
+    {
+      "name": "ransomware",
+      "indicators": [
+        "encrypt",
+        "decrypt",
+        "ransom",
+        "bitcoin",
+        "crypto"
+      ],
+      "actions": [
+        "encrypt",
+        "lock",
+        "delete"
+      ],
+      "severity": "critical"
+    },
+    {
+      "name": "keylogger",
+      "indicators": [
+        "keyboard",
+        "keypress",
+        "key_event",
+        "input"
+      ],
+      "actions": [
+        "log",
+        "record",
+        "capture"
+      ],
+      "severity": "high"
+    },
+    {
+      "name": "persistence",
+      "indicators": [
+        "startup",
+        "registry",
+        "cron",
+        "autostart",
+        "service"
+      ],
+      "actions": [
+        "install",
+        "add",
+        "create",
+        "modify"
+      ],
+      "severity": "high"
+    }
+  ],
+  
+  "malicious_behaviors": [
+    {
+      "name": "unauthorized_network",
+      "description": "Connecting to external servers without user consent",
+      "risk_level": "high"
+    },
+    {
+      "name": "file_modification",
+      "description": "Modifying or deleting system files",
+      "risk_level": "high"
+    },
+    {
+      "name": "privilege_escalation",
+      "description": "Attempting to gain elevated privileges",
+      "risk_level": "critical"
+    },
+    {
+      "name": "anti_debugging",
+      "description": "Detecting or preventing debugging",
+      "risk_level": "medium"
+    }
+  ]
+}

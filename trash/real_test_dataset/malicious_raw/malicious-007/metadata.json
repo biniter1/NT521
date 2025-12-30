@@ -1,0 +1,16 @@
+{
+  "package_name": "defca",
+  "malicious": true,
+  "malware_type": "unknown",
+  "source": "real_malicious_samples",
+  "version": "1.0.0",
+  "author": "unknown",
+  "file_count": 3,
+  "file_hash": "626d0f57a86bc54190d843348917df92",
+  "original_files": [
+    "defca-3.0.0_arithmetics.py",
+    "defca-3.0.0_test.py",
+    "defca-3.0.0___init__.py"
+  ],
+  "created_at": "2025-12-05T22:10:32.806640"
+}

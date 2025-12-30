@@ -1,0 +1,10 @@
+{
+  "total_packages": 1000,
+  "malicious_packages": 500,
+  "benign_packages": 500,
+  "malicious_ratio": 0.5,
+  "avg_dependencies": 7.195,
+  "avg_downloads": 74852744.764,
+  "packages_with_malicious_deps": 11,
+  "synthetic_packages_used": true
+}

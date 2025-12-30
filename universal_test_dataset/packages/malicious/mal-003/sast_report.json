@@ -1,0 +1,30 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:14:10.588780",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\malicious\\mal-003\\source\\httprequesthub-2.31.4_packages_11.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\malicious\\mal-003\\source\\httprequesthub-2.31.4_test_lowlevel_18.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "HTTP POST detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\malicious\\mal-003\\source\\httprequesthub-2.31.4_test_requests_20.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "HTTP POST detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 3,
+    "high_severity": 0,
+    "medium_severity": 3,
+    "low_severity": 0
+  }
+}

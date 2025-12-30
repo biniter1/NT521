@@ -1,0 +1,42 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:13:58.534960",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-019\\source\\requests-2.32.5\\setup.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-019\\source\\requests-2.32.5\\src\\requests\\packages.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-019\\source\\requests-2.32.5\\src\\requests\\__init__.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "HTTP POST detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-019\\source\\requests-2.32.5\\tests\\test_lowlevel.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "HTTP POST detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-019\\source\\requests-2.32.5\\tests\\test_requests.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "HTTP POST detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 5,
+    "high_severity": 1,
+    "medium_severity": 4,
+    "low_severity": 0
+  }
+}

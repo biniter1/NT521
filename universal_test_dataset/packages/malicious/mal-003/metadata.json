@@ -1,0 +1,42 @@
+{
+  "name": "mal-003",
+  "version": "1.0.0",
+  "malicious": true,
+  "maloss_info": {
+    "package_name": "mal-003",
+    "version": "1.0.0",
+    "author": "unknown",
+    "author_email": "unknown@evil.com",
+    "description": "Malicious package",
+    "home_page": "",
+    "license": "Unknown",
+    "downloads": {
+      "last_day": 0,
+      "last_week": 0,
+      "last_month": 100
+    },
+    "upload_time": "2025-12-05T22:14:10.351488",
+    "typosquatting_score": 0.8,
+    "dependencies": {
+      "runtime": [],
+      "development": []
+    },
+    "has_setup_py": true,
+    "has_binary": false,
+    "has_native_extension": false,
+    "source_lines": 8227,
+    "has_obfuscation": true,
+    "entropy_score": 0.0
+  },
+  "tier_system_info": {
+    "statistics": {
+      "downloads": {
+        "last_month": 100
+      }
+    },
+    "upload_time": "2025-12-05T22:14:10.351488",
+    "author": "unknown",
+    "has_documentation": false,
+    "dependencies": []
+  }
+}

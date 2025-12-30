@@ -1,0 +1,15 @@
+{
+  "package_name": "proxyalhttp",
+  "malicious": true,
+  "malware_type": "unknown",
+  "source": "real_malicious_samples",
+  "version": "1.0.0",
+  "author": "unknown",
+  "file_count": 2,
+  "file_hash": "fee10ee4c47be640f75f4a51fe64199c",
+  "original_files": [
+    "proxyalhttp-0.1_dsgsfdgdfg.py",
+    "proxyalhttp-0.1___init__.py"
+  ],
+  "created_at": "2025-12-05T22:10:32.912706"
+}

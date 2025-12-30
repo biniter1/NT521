@@ -1,0 +1,30 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:13:58.046306",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-017\\source\\python-dateutil-2.9.0.post0\\src\\dateutil\\zoneinfo\\rebuild.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-017\\source\\python-dateutil-2.9.0.post0\\tests\\test_tz.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-017\\source\\python-dateutil-2.9.0.post0\\tests\\_common.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 3,
+    "high_severity": 0,
+    "medium_severity": 2,
+    "low_severity": 1
+  }
+}

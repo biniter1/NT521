@@ -1,0 +1,84 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:13:43.870519",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\botocore\\credentials.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\botocore\\credentials.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\botocore\\handlers.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\botocore\\httpchecksum.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\botocore\\paginate.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\botocore\\parsers.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\botocore\\vendored\\six.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of exec() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\botocore\\vendored\\six.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\tests\\integration\\test_client_http.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Network connection detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\tests\\unit\\test_credentials.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\tests\\unit\\test_protocols.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-003\\source\\botocore-1.41.5\\tests\\unit\\auth\\test_signers.py",
+      "issue_severity": "LOW",
+      "issue_text": "Base64 decoding detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 12,
+    "high_severity": 2,
+    "medium_severity": 3,
+    "low_severity": 7
+  }
+}

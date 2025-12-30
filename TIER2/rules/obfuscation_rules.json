@@ -1,0 +1,79 @@
+{
+  "obfuscation_patterns": [
+    {
+      "name": "base64_encoding",
+      "pattern": "base64\\.b64decode",
+      "severity": "medium",
+      "description": "Base64 decoding often used to hide malicious payloads"
+    },
+    {
+      "name": "exec_dynamic",
+      "pattern": "exec\\s*\\(",
+      "severity": "high",
+      "description": "Dynamic code execution"
+    },
+    {
+      "name": "eval_dynamic",
+      "pattern": "eval\\s*\\(",
+      "severity": "high",
+      "description": "Dynamic expression evaluation"
+    },
+    {
+      "name": "compile_dynamic",
+      "pattern": "compile\\s*\\(",
+      "severity": "medium",
+      "description": "Dynamic code compilation"
+    },
+    {
+      "name": "hex_encoding",
+      "pattern": "\\\\x[0-9a-fA-F]{2}",
+      "severity": "low",
+      "description": "Hexadecimal encoding"
+    },
+    {
+      "name": "unicode_escape",
+      "pattern": "\\\\u[0-9a-fA-F]{4}",
+      "severity": "low",
+      "description": "Unicode escape sequences"
+    },
+    {
+      "name": "obfuscated_strings",
+      "pattern": "chr\\s*\\(\\s*\\d+\\s*\\)",
+      "severity": "medium",
+      "description": "Character-by-character string construction"
+    }
+  ],
+  
+  "anti_analysis": [
+    {
+      "name": "debugger_check",
+      "pattern": "sys\\.gettrace\\s*\\(\\s*\\)",
+      "severity": "high",
+      "description": "Debugger detection"
+    },
+    {
+      "name": "vm_detection",
+      "pattern": "(VirtualBox|VMware|QEMU)",
+      "severity": "medium",
+      "description": "Virtual machine detection"
+    },
+    {
+      "name": "sandbox_evasion",
+      "pattern": "sleep|time\\.sleep",
+      "severity": "low",
+      "description": "Potential sandbox evasion via delays"
+    }
+  ],
+  
+  "suspicious_variable_names": [
+    "_0x",
+    "__",
+    "exec_",
+    "eval_",
+    "_exec",
+    "_eval",
+    "payload",
+    "shellcode",
+    "exploit"
+  ]
+}

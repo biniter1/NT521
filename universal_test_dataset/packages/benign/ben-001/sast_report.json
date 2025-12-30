@@ -1,0 +1,36 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:13:37.382887",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-001\\source\\attrs-25.4.0\\src\\attr\\_make.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-001\\source\\attrs-25.4.0\\src\\attr\\_make.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Dynamic import detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-001\\source\\attrs-25.4.0\\tests\\test_dunders.py",
+      "issue_severity": "HIGH",
+      "issue_text": "Use of eval() detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-001\\source\\attrs-25.4.0\\tests\\test_pyright.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 4,
+    "high_severity": 2,
+    "medium_severity": 2,
+    "low_severity": 0
+  }
+}

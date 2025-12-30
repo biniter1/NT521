@@ -1,0 +1,11 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:14:11.229853",
+  "findings": [],
+  "summary": {
+    "total_issues": 0,
+    "high_severity": 0,
+    "medium_severity": 0,
+    "low_severity": 0
+  }
+}

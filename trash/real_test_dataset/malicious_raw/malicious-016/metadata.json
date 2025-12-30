@@ -1,0 +1,15 @@
+{
+  "package_name": "requestn",
+  "malicious": true,
+  "malware_type": "unknown",
+  "source": "real_malicious_samples",
+  "version": "1.0.0",
+  "author": "unknown",
+  "file_count": 2,
+  "file_hash": "2d79cfd9372f30cf8682a889771814ee",
+  "original_files": [
+    "requestn-8.0_requestn.py",
+    "requestn-8.0___init__.py"
+  ],
+  "created_at": "2025-12-05T22:10:32.925426"
+}

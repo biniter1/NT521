@@ -1,0 +1,36 @@
+{
+  "package_name": "s3transfer",
+  "version": "0.15.0",
+  "author": "Amazon Web Services",
+  "author_email": "kyknapp1@gmail.com",
+  "summary": "An Amazon S3 Transfer Manager",
+  "description": "=====================================================\ns3transfer - An Amazon S3 Transfer Manager for Python\n=====================================================\n\nS3transfer is a Python library for managing Amazon S3 transfers.\nThis project is maintained and published by Amazon Web Services.\n\n.. note::\n\n  This project is not currently GA. If you are planning to use this code in\n  production, make sure to lock to a minor version as interfaces may break\n  from minor version to minor version. For a basic, stable interface of\n  s3transfer, try the interfaces exposed in `boto3 <https://boto3.readthedocs.io/en/latest/guide/s3.html#using-the-transfer-manager>`__\n",
+  "home_page": "https://github.com/boto/s3transfer",
+  "project_url": "https://pypi.org/project/s3transfer/",
+  "license": "Apache License 2.0",
+  "classifiers": [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Natural Language :: English",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "botocore<2.0a.0,>=1.37.4",
+    "botocore[crt]<2.0a.0,>=1.37.4; extra == \"crt\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/boto/s3transfer"
+  },
+  "downloads_last_month": null,
+  "age_days": 10
+}

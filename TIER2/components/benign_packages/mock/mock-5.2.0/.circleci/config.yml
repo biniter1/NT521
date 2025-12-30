@@ -1,0 +1,95 @@
+version: 2.1
+
+orbs:
+  python: cjw296/python-ci@5
+
+jobs:
+  check-package:
+    parameters:
+      image:
+        type: string
+      python:
+        type: string
+        default: "python"
+    docker:
+      - image: << parameters.image >>
+    steps:
+      - python/check-package:
+          package: "mock"
+          test:
+          - run:
+              name: "Import package"
+              command: << parameters.python >> -c "import mock"
+
+
+common: &common
+  jobs:
+
+    - python/pip-run-tests:
+        matrix:
+          alias: python-tests
+          parameters:
+            image:
+              - cimg/python:3.6
+              - cimg/python:3.7
+              - cimg/python:3.8
+              - cimg/python:3.9
+              - cimg/python:3.10
+              - cimg/python:3.11
+              - cimg/python:3.12
+              - cimg/python:3.13
+
+    - python/pip-run-tests:
+        python: pypy3
+        matrix:
+          alias: pypy-tests
+          parameters:
+            image:
+              - pypy:3.7-7.3.2
+              - pypy:latest
+
+    - python/coverage:
+        name: coverage
+        requires:
+          - python-tests
+          - pypy-tests
+
+    - python/pip-docs:
+        name: docs
+        requires:
+          - coverage
+
+    - python/pip-setuptools-build-package:
+        name: package
+        requires:
+          - docs
+        filters:
+          branches:
+            only: master
+
+    - check-package:
+        matrix:
+          parameters:
+            image:
+              - cimg/python:3.6
+              - cimg/python:3.13
+        requires:
+          - package
+
+    - python/release:
+        name: release
+        config: .carthorse.yml
+        requires:
+          - check-package
+
+workflows:
+  push:
+    <<: *common
+  periodic:
+    <<: *common
+    triggers:
+      - schedule:
+          cron: "0 1 * * *"
+          filters:
+            branches:
+              only: master

@@ -1,0 +1,15 @@
+{
+  "package_name": "xfilesyncerx",
+  "malicious": true,
+  "malware_type": "unknown",
+  "source": "real_malicious_samples",
+  "version": "1.0.0",
+  "author": "unknown",
+  "file_count": 2,
+  "file_hash": "077759e127f4922c2c0af848c66569db",
+  "original_files": [
+    "xFileSyncerx-0.0.2_xfilesyncerx.py",
+    "xFileSyncerx-0.0.2___init__.py"
+  ],
+  "created_at": "2025-12-05T22:10:32.932964"
+}

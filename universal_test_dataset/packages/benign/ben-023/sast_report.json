@@ -1,0 +1,24 @@
+{
+  "tool": "bandit",
+  "timestamp": "2025-12-05T22:14:05.779340",
+  "findings": [
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-023\\source\\urllib3-2.5.0\\docs\\conf.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Subprocess execution detected",
+      "line_number": 1
+    },
+    {
+      "filename": "D:\\NT521\\DOAN\\universal_test_dataset\\packages\\benign\\ben-023\\source\\urllib3-2.5.0\\test\\contrib\\emscripten\\test_emscripten.py",
+      "issue_severity": "MEDIUM",
+      "issue_text": "HTTP POST detected",
+      "line_number": 1
+    }
+  ],
+  "summary": {
+    "total_issues": 2,
+    "high_severity": 0,
+    "medium_severity": 2,
+    "low_severity": 0
+  }
+}
