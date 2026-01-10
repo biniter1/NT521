@@ -14,7 +14,7 @@ The detection pipeline consists of two main tiers:
 - **GNN (Graph Neural Network)**: Analyzes dependency graph structures and package metadata
 - **Random Forest**: Processes metadata features for complementary analysis
 - **Ensemble**: Weighted combination of GNN and RF predictions
-- **Threshold**: Packages scoring > 90 pass to Tier 2
+- **Threshold**: Packages scoring > 90 pass to Tier 2 ( Example 90) 
 
 ### TIER 2: Deep Static Analysis
 Four specialized components for thorough malware detection:
