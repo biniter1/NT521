@@ -1,2 +1,1 @@
-
-**Để tìm ra best config cho tier 1 hãy chạy file python3 optimaize.py**
+Đây là nơi triển khai riêng lẻ TIER1
